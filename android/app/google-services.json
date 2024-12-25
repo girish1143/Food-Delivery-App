@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "51828290842",
+    "project_id": "prop-ed875",
+    "storage_bucket": "prop-ed875.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:51828290842:android:cfdae19459bda2157528a3",
+        "android_client_info": {
+          "package_name": "com.Girish.pro"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB10JslvtCtnZFaB9TitcPsNw6Vr_COXDs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
